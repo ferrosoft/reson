@@ -23,9 +23,18 @@ If you use `uv` (recommended) you can add **`reson`** to your environment by usi
 uv add reson
 ```
 
+## Credits
+
+* **`reson`** author and maintainer: Francesco A. Franco ([@ffrancoa]).
+
+* Font used in logo: [Lexend]. Open Font License.
+
+[@ffrancoa]: https://github.com/ffrancoa
+[Lexend]: https://www.lexend.com/
+
 ## License
 
-Reson is released under the [Affero General License, Version 3.0].
+Reson is released under the [Affero General Public License, Version 3.0].
 
 [Affero General Public License, Version 3.0]: https://opensource.org/license/agpl-3-0
 
