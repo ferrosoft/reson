@@ -11,16 +11,22 @@ Reson (stylized in all lowercase) is a Python library for one-dimensional seismi
 
 ## Setup
 
-Install the latest _reson_ version with:
+Install the latest **`reson`** version with:
 
 ```sh
 pip install reson
 ```
 
-If you use `uv` (recommended) you can add _reson_ to your environment by using:
+If you use `uv` (recommended) you can add **`reson`** to your environment by using:
 
 ```sh
 uv add reson
 ```
+
+## License
+
+Reson is released under the [Affero General License, Version 3.0].
+
+[Affero General License, Version 3.0]: https://opensource.org/license/agpl-3-0
 
 ---
