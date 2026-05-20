@@ -6,7 +6,7 @@
 
 ##  A Python library for 1D seismic response analysis
 
-Reson (stylized in all lowercase) is a Python library for one-dimensional seismic site response analysis.
+**Reson** (stylized in all lowercase) is a Python library for one-dimensional seismic site response analysis.
 
 
 ## Setup
@@ -27,6 +27,6 @@ uv add reson
 
 Reson is released under the [Affero General License, Version 3.0].
 
-[Affero General License, Version 3.0]: https://opensource.org/license/agpl-3-0
+[Affero General Public License, Version 3.0]: https://opensource.org/license/agpl-3-0
 
 ---
