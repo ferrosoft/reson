@@ -4,5 +4,23 @@
   </a>
 </h1>
 
-##  Conic: A Python library for 1D seismic response analysis
+##  A Python library for 1D seismic response analysis
 
+Reson (stylized in all lowercase) is a Python library for one-dimensional seismic site response analysis.
+
+
+## Setup
+
+Install the latest _reson_ version with:
+
+```sh
+pip install reson
+```
+
+If you use `uv` (recommended) you can add _reson_ to your environment by using:
+
+```sh
+uv add reson
+```
+
+---
